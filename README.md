@@ -1,5 +1,7 @@
 # Hi! I'm Pedro 
 
+🎒 I'm an Information Systems Student
+
 [![Github stats](https://github-readme-stats.vercel.app/api?username=1ugon)](https://github.com/1ugon)
 
 - 🌎 I'm from Brasilia - Brazil

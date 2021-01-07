@@ -1,6 +1,4 @@
-<center># Hi! I'm Pedro</center> 
-
-<center>🎒 I'm an Information Systems Student</center>
+### 🎒 I'm an Information Systems Student
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=1ugon&count_private=true&show_icons=true)](https://github.com/1ugon)
 

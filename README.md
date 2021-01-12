@@ -6,7 +6,7 @@
 - 📚 I’m currently learning **React**
 - 🏅 I’m looking to collaborate where people are excited to do new things
 - 🎮 In free time I like to play games and watch series/anime
-- 📧 **How to reach me: pedromotta20@gmail.com**
+- 📧 How to reach me: pedrolugonm@gmail.com
 
 ## Socials
 

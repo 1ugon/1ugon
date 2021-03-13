@@ -4,7 +4,7 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=1ugon&count_private=true&show_icons=true)](https://github.com/1ugon)
 
 - 🌎 I'm from Brasilia - Brazil
-- 📚 I’m currently learning **React, React Native and Node
+- 📚 I’m currently learning **React, React Native and Node**
 - 🎮 In free time I like to play games and watch series/anime
 - 📧 How to reach me: pedrolugonm@gmail.com
 

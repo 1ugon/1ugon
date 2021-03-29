@@ -1,6 +1,6 @@
 <h1 color="black" align="center"> 🎒 I'm an Information Systems Student </h1>
 
-<p align="center">🌎 I'm from Brasilia - Brazil</p>
+<p align="center">🌎 I'm from Brasília - Brazil</p>
 <p align="center">📚 I’m currently learning <strong>React, React Native and Node</strong></p>
 <p align="center">🎮 In free time I like to play games and watch series/anime</p>
 <p align="center">📧 How to reach me: pedrolugonm@gmail.com</p>

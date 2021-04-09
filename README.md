@@ -3,7 +3,7 @@
 <h4 align="center">🌎 I'm from Brasília - Brazil</h4>
 <h4 align="center">📚 I’m currently learning <strong>React, React Native and Node</strong></h4>
 <h4 align="center">🎮 In free time I like to play games and watch series/anime</h4>
-<h3 align="center">📧 How to reach me: <a href="https://www.lugon.dev/">My website</a> or <a href="mailto:pedrolugonm@gmail.com" target="_blank">pedrolugonm@gmail.com</a></h3>
+<h3 align="center">📧 How to reach me: <a href="https://www.lugon.dev/" target="_blank">My website</a> or <a href="mailto:pedrolugonm@gmail.com" target="_blank">pedrolugonm@gmail.com</a></h3>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=1ugon&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" aling="center"><img/>

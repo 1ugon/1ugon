@@ -1,12 +1,13 @@
 <h1 color="black" align="center"> 🎒 I'm an Information Systems Student </h1>
 
-<p align="center">🌎 I'm from Brasília - Brazil</p>
-<p align="center">📚 I’m currently learning <strong>React, React Native and Node</strong></p>
-<p align="center">🎮 In free time I like to play games and watch series/anime</p>
-<p align="center">📧 How to reach me: pedrolugonm@gmail.com</p>
+<h4 align="center">🌎 I'm from Brasília - Brazil</h4>
+<h4 align="center">📚 I’m currently learning <strong>React, React Native and Node</strong></h4>
+<h4 align="center">🎮 In free time I like to play games and watch series/anime</h4>
+<h3 align="center">📧 How to reach me: <a href="https://www.lugon.dev/">My website</a> or <a href="mailto:pedrolugonm@gmail.com" target="_blank">pedrolugonm@gmail.com</a></h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=1ugon&count_private=true&show_icons=true" alt="GitHub Stats" aling="center"><img/>
+<img src="https://github-readme-stats.vercel.app/api?username=1ugon&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" aling="center"><img/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ugon&layout=compact&langs_count=8&theme=dark" alt="GitHub Stats" aling="center"><img/>
 </p>
 
 <h1 color="black" align="center"> Socials </h1>

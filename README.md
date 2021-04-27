@@ -1,7 +1,6 @@
 <h2> 🎒 I'm an Information Systems Student </h2>
 
 <h4>🌎 I'm from Brasília - Brazil</h4>
-<h4>📚 I’m currently learning <strong>React, React Native and Node</strong></h4>
 <h4>🎮 In free time I like to play games and watch series/anime</h4>
 <h4>📧 How to reach me: <a href="https://www.lugon.dev/">My website</a> or <a href="mailto:pedrolugonm@gmail.com">pedrolugonm@gmail.com</a></h4>
 

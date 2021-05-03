@@ -4,11 +4,11 @@
 <h4>🎮 In free time I like to play games and watch series/anime</h4>
 <h4>📧 How to reach me: <a href="https://www.lugon.dev/">Lugon.dev</a> or <a href="mailto:pedrolugonm@gmail.com">pedrolugonm@gmail.com</a></h4>
 
-<p>
   <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=1ugon&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats"><img/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ugon&layout=compact&langs_count=8&theme=dark" alt="GitHub Stats"><img/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=1ugon&theme=onedark" alt="Github Trophy"/>
+<img src="https://github-readme-stats.vercel.app/api?username=1ugon&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ugon&layout=compact&langs_count=8&theme=dark" alt="GitHub Stats" />
+
 
 <h1> Socials </h1>
 <p>

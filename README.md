@@ -6,7 +6,6 @@
 
   <br/>
 <img src="https://github-profile-trophy.vercel.app/?username=1ugon&theme=onedark" alt="Github Trophy"/>
-<img src="https://github-readme-stats.vercel.app/api?username=1ugon&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ugon&layout=compact&langs_count=8&theme=dark" alt="GitHub Stats" />
 
 
